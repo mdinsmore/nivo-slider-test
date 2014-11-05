@@ -10,7 +10,7 @@ Author URI: http://dev7studios.com
 
 .theme-default .nivoSlider {
 	position:relative; 
-	background: transparent url(https://raw.githubusercontent.com/mdinsmore/nivo-slider-test/master/nivo-test/assets/loading.gif) no-repeat 50% 50%;
+	background: transparent url(https://raw.githubusercontent.com/mdinsmore/nivo-slider-test/master/assets/loading.gif) no-repeat 50% 50%;
     margin-bottom: 5px;
 
 /*
@@ -40,7 +40,7 @@ Author URI: http://dev7studios.com
 	display:inline-block;
 	width:22px;
 	height:22px;
-	background:url(https://raw.githubusercontent.com/mdinsmore/nivo-slider-test/master/nivo-test/assets/bullets.png) no-repeat;
+	background:url(https://raw.githubusercontent.com/mdinsmore/nivo-slider-test/master/assets/bullets.png) no-repeat;
 	text-indent:-9999px;
 	border:0;
 	margin: 0 2px;
@@ -53,7 +53,7 @@ Author URI: http://dev7studios.com
 	display:block;
 	width:30px;
 	height:30px;
-	background:url(https://raw.githubusercontent.com/mdinsmore/nivo-slider-test/master/nivo-test/assets/arrows.png) no-repeat;
+	background:url(https://raw.githubusercontent.com/mdinsmore/nivo-slider-test/master/assets/arrows.png) no-repeat;
 	text-indent:-9999px;
 	border:0;
 }
