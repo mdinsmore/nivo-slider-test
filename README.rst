@@ -27,8 +27,8 @@ Embed the site in your google site
 	
 	Configure the iframe as follow:
 	
-		url:  https://rawgit.com/<your user name>/<your respository name>/nivo-test/index.html
-		e.g. https://rawgit.com/mdinsmore/nivo-slider-test/master/nivo-test/index.html
+		url:  https://rawgit.com/<your user name>/<your respository name>/index.html
+		e.g. https://rawgit.com/mdinsmore/nivo-slider-test/master/index.html
 	
 		Display scroll bar: No
 	
