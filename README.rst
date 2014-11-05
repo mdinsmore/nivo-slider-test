@@ -22,19 +22,25 @@ Embed the site in your google site
 
 	Create a page to add the gallery
 	
-	Add a iframe to the page.  Currently you can do this by clicking on insert and then "more Gadgets".  Search for "Include gadget (iframe)"
+	Add a iframe to the page.  Currently you can do this by clicking on insert
+	and then "more Gadgets".  Search for "Include gadget (iframe)"
 	
 	Configure the iframe as follow:
 	
-		url:  should be set to https://gitraw.com/<your user name>/<your respository name>/nivo-test/index.html
+		url:  https://gitraw.com/<your user name>/<your respository name>/nivo-test/index.html
 		e.g. https://rawgit.com/mdinsmore/nivo-slider-test/master/nivo-test/index.html
+	
 		Display scroll bar: No
+	
 		Width: <size of you pictures plus 50 pixels> e.g. 600 pixels
-		Height: <size of your pictures plus 250 pixels> e.g. 600 pixels
+	
+		Height: <size of your pictures plus 70 pixels> e.g. 600 pixels
 		
 		Uncheck all three checkboxes
-		Dispaly : default
+	
+		Display : default
 		
-	Click ok to save to page and save page to view - you may need to play with the height and width to get that right.
+	Click "OK" to save to the page and then save page to view.
+	You may need to tweak with the height and width to get that right.
 
 
